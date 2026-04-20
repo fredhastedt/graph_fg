@@ -9,7 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-A deep learning model for synthetic accessibility prediction based on molecular prices.
+A deep learning model for synthetic accessibility prediction based on molecular prices - [Journal of Chemoinformatics](https://link.springer.com/article/10.1186/s13321-025-01076-3).
 
 ## Installation
 Clone the repository and create a virtual environment with conda:
